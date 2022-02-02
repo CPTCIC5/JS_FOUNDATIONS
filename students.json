@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Aryan",
+        "age":16,
+        "profession":"Developer"
+    },
+    {
+        "name":"Nayan",
+        "age":17,
+        "profession": "entrepreneur"
+    }
+]
