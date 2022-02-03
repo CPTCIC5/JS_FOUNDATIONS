@@ -1,24 +1,25 @@
-//Functions
-//a simple printing fun
 
-function noob() {
-    console.log('function is workin');
-}
-noob();
-
-// a fun taking input of name n printing with Hey +name
 /*
-function name(){
-    let user_name=prompt('what is ur name');
-    let result= 'HEY' + ' ' + user_name;  //concatination (same as py)
-    console.log(result);
+let age=prompt("What is ur age");
+if (age <18){
+    console.log("U can't go")
+} else if(age >65)  {
+    console.log("U can't go sir")
+} else {
+    console.log("U can go")
 }
-name();
 */
 
-//fun with paramaters n arguments
-function arguments(n1,n2) {
-    console.log(n1+n2)
+//LOGICAL OPERATORS
+/*
+!= NOT EQUAL TO , == EQUALS TO
+|| OR
+&& AND
+*/
 
+let age=prompt("What is ur age");
+if ( (age <18) || (age>60) ){   // HERE || IS THE OR LOGICIAL OPERATOR
+    console.log("U can't go sir")
+} else {
+    console.log("U can go")
 }
-arguments('6','9')
