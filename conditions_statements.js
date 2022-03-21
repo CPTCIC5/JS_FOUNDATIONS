@@ -12,7 +12,7 @@ if (age <18){
 
 //LOGICAL OPERATORS
 /*
-=! NOT EQUAL TO , == EQUALS TO
+!= NOT EQUAL TO , == EQUALS TO
 || OR
 && AND
 */

@@ -22,3 +22,15 @@ function arguments(n1,n2) {
 
 }
 arguments('6','9')
+
+//example of callback (calling a fun inside a func)
+function myDisplayer(some) {
+    document.getElementById("demo").innerHTML = some;
+  }
+  
+  function myCalculator(num1, num2) {
+    let sum = num1 + num2;
+    myDisplayer(sum);
+  }
+  
+  myCalculator(5, 5);

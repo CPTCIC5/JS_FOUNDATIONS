@@ -16,7 +16,7 @@ document.getElementById('heading').innerHTML = 'HEY'    //document.getElementByI
 
 
 //Numbers in JS
-let n1=5;
+var n1=5;
 
 // n1(var-name)++ to increment by +1
 n1++;
