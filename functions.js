@@ -23,11 +23,8 @@ function arguments(n1,n2) {
 }
 arguments('6','9')
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> d20a8009d4717aeecba62ae6889a9950af4dbfa8
 //example of callback (calling a fun inside a func)
 function myDisplayer(some) {
     document.getElementById("demo").innerHTML = some;
@@ -38,8 +35,4 @@ function myDisplayer(some) {
     myDisplayer(sum);
   }
   
-<<<<<<< HEAD
   myCalculator(5, 5);
-=======
-  myCalculator(5, 5);
->>>>>>> d20a8009d4717aeecba62ae6889a9950af4dbfa8

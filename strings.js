@@ -10,7 +10,7 @@ console.log(fruit.toUpperCase());  // to upper-case the sentence.
 console.log(fruit.toLowerCase());  // to lowwer-case the sentence.
 
 console.log(fruit.startsWith('b'));  //Tells True or False
-console.log(fruit.search('n'));
+console.log(fruit.search('an'));
 
 console.log(fruit.replace('b','s'));  //banana --> sanana
 
