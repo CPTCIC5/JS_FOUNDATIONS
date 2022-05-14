@@ -73,3 +73,9 @@ let selected_color=['red','blue',];
 console.log(selected_color);
 console.log(selected_color[0]);
 console.log(selected_color.slice(0,2))*/
+
+//element.addEventListener("click", myFunction);
+//function myFunction() {
+
+//let x1=prompt("Value")
+//console.log(`Val is ${x1}`)

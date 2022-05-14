@@ -10,8 +10,6 @@ let dict=
 
 console.log(dict.Sarthak,dict.age,dict.height)
 dict.Sarthak='Aryan'  //to overwrite value of dict object Sarthak
-console.log(dict)
 dict.age++
 console.log(dict)
-console.log(dict.fulldata())
 console.log(dict.fulldata())
