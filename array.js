@@ -45,3 +45,23 @@ console.log(counting.sort()); //to sort
 
 x2=counting.reverse();
 console.log(x2[0])   // sol of printing largest no. in a array
+
+//LOOPS WITH ARRAY
+let num =[3,54,1,2,4]
+/*for (let i=0;i<num.length;i++){
+    console.log(i)
+}*/
+/*
+for (i in num){
+    console.log(num[i])
+}*/
+//same output as ^^
+/*
+for (i of num){
+    console.log(i)
+}
+*/
+
+let name='edyed'
+let xname=Array.from(name)
+console.log(xname)

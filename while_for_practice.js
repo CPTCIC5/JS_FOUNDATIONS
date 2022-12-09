@@ -1,4 +1,5 @@
-/*let tries_used=0
+/*
+let tries_used=0
 let total_tries=5
 while (tries_used<total_tries){
     tries_used+=1

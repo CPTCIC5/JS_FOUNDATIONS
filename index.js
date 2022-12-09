@@ -11,7 +11,7 @@ let b= 'smoothie'   //var keyword to make a var , a var can store any type of da
 console.log(b)
 
 
-//var age = prompt('what is ur age?')  //prompt is used to pop-up prompt /input in js
+//var age = prompt('what is ur age?')  //prompt is used to pop-up prompt /input
 document.getElementById('heading').innerHTML = 'HEY'    //document.getElementById('id (on the html frontend') .innerHTML is user
 
 

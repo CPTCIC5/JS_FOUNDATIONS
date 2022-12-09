@@ -26,6 +26,7 @@ arguments('6','9')
 
 
 //example of callback (calling a fun inside a func)
+/*
 function myDisplayer(some) {
     document.getElementById("demo").innerHTML = some;
   }
@@ -36,3 +37,19 @@ function myDisplayer(some) {
   }
   
   myCalculator(5, 5);
+*/
+
+//JS fetches out variable data asyncroniously while called in a function(possible in python)
+/*function a() {
+  console.log(b)
+}
+
+var b=10
+a()
+*/
+
+//in JS  we can call function ansyc. even outside scope of any function(we can't call outside any scope in python)
+/*square(3)
+function square(n){
+  return n*n
+}*/ 
